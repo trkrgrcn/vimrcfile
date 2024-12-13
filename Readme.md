@@ -19,6 +19,11 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
   "suggest.noselect": false
  }
 ```
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/c84a9bab-ed1a-4153-9090-684aa5663093)
+
+
 
 
 
